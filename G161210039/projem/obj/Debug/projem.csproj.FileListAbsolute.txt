@@ -1,0 +1,20 @@
+c:\users\hp\documents\visual studio 2015\Projects\projem\projem\bin\Debug\projem.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\projem\projem\bin\Debug\projem.exe
+c:\users\hp\documents\visual studio 2015\Projects\projem\projem\bin\Debug\projem.pdb
+c:\users\hp\documents\visual studio 2015\Projects\projem\projem\obj\Debug\projem.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\projem\projem\obj\Debug\projem.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\projem\projem\obj\Debug\projem.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\projem\projem\obj\Debug\projem.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\projem\projem\obj\Debug\projem.exe
+c:\users\hp\documents\visual studio 2015\Projects\projem\projem\obj\Debug\projem.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\projem\projem\obj\Debug\projem.Form2.resources
+D:\MASAÜSTÜ\ders\C#\ödevler\proje\G161210039\projem\bin\Debug\projem.exe.config
+D:\MASAÜSTÜ\ders\C#\ödevler\proje\G161210039\projem\obj\Debug\projem.exe
+D:\MASAÜSTÜ\ders\C#\ödevler\proje\G161210039\projem\obj\Debug\projem.pdb
+D:\MASAÜSTÜ\ders\C#\ödevler\proje\G161210039\projem\bin\Debug\projem.exe
+D:\MASAÜSTÜ\ders\C#\ödevler\proje\G161210039\projem\bin\Debug\projem.pdb
+D:\MASAÜSTÜ\ders\C#\ödevler\proje\G161210039\projem\obj\Debug\projem.csprojResolveAssemblyReference.cache
+D:\MASAÜSTÜ\ders\C#\ödevler\proje\G161210039\projem\obj\Debug\projem.Form1.resources
+D:\MASAÜSTÜ\ders\C#\ödevler\proje\G161210039\projem\obj\Debug\projem.Form2.resources
+D:\MASAÜSTÜ\ders\C#\ödevler\proje\G161210039\projem\obj\Debug\projem.Properties.Resources.resources
+D:\MASAÜSTÜ\ders\C#\ödevler\proje\G161210039\projem\obj\Debug\projem.csproj.GenerateResource.Cache
