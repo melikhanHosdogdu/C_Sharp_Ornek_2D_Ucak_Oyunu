@@ -1,15 +1,6 @@
-﻿/**********************************************************************************
-**                                        SAKARYA ÜNİVERSİTESİ
-**                                BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**                                    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**                                   NESNEYE DAYALI PROGRAMLAMA DERSİ
-**                                     2016-2017 BAHAR DÖNEMİ
-**
-**                          ÖDEV NUMARASI..........:PROJE
-**                          ÖĞRENCİ ADI............: Melikhan Muhammed Hoşdoğdu 
-**                          ÖĞRENCİ NUMARASI.......: G 161210039
-**                          DERSİN ALINDIĞI GRUP...:2B
-************************************************************************************/
+/*
+author Melikhan Hoşdoğdu
+***/
 
 
 
